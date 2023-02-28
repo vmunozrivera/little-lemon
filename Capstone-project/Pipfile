@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 mysqlclient = "*"
+djoser = "*"
 
 [dev-packages]
 
